@@ -1,8 +1,10 @@
 🕘️更新时间,#genre#
-2025-10-20 06:10:22,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+2025-10-20 18:13:20,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761096126-f844a8cecb8c82b57452285d0ecbce88-0-187281c58f52c70d54638388a7d8e5fc
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 💰央视付费频道,#genre#
@@ -10,4 +12,3 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
