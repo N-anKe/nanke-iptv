@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-20 06:10:57,http://bxtv.3a.ink/migu.php?id=cctv14
+2025-11-20 18:12:38,http://61.184.46.85:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-4,http://61.184.46.85:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://61.184.46.85:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
 CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15
 CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
