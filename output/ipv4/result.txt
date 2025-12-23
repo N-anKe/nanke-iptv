@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-23 18:13:48,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+2025-12-24 06:11:52,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
@@ -10,16 +10,16 @@ CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-10,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 CCTV-12,http://yp.qqqtv.top/1/api.php?id=CCTV-12HD&auth=666858
-CCTV-13,http://yp.qqqtv.top/1/api.php?id=CCTV-13%E6%96%B0%E9%97%BB&auth=666858
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
+CCTV-13,http://yp.qqqtv.top/1/api.php?id=CCTV-13%E6%96%B0%E9%97%BB&auth=666858
 CCTV-15,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 CCTV-17,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
+CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 💰央视付费频道,#genre#
@@ -38,8 +38,8 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 高尔夫网球,http://171.83.103.119:9999/rtp/239.69.1.83:10138
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
 风云足球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858
-电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
+电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
 兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 
