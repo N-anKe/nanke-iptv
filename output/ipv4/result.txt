@@ -1,14 +1,13 @@
 🕘️更新时间,#genre#
-2026-05-17 18:59:20,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2026-05-18 06:41:42,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 📺央视频道,#genre#
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-4,http://hao6688.3322.org:30066/stream/channelid/722781944?ticket=87f224de949a7a0ebd5a4cf1f8a480d4abdf729f&profile=pass
-CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-5,http://192.151.150.154/live/cctv5hd.m3u8
+CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-7,http://hao6688.3322.org:30066/stream/channelid/1148086425?ticket=e76bf68e07a2575de88adc9bb16d985fff3cb3ea&profile=pass
 CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=12e324365e5fe37f99c3757e36709fd0
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,http://hao6688.3322.org:30066/stream/channelid/436563839?ticket=da46b80b76785d5a8675a1e693c3722c3cd3f28d&profile=pass
@@ -40,14 +39,12 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
+甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
-三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
